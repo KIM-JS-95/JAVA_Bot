@@ -1,4 +1,0 @@
-BotTest.java
- BotTest
-ScreenCaptureTest.java
- ScreenCaptureTest
